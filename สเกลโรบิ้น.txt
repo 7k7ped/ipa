@@ -1,0 +1,52 @@
+su
+adb shell
+
+---------------------เลือกใส่ด้านล่าง---------------------
+
+settings put global transition_animation_scale 0
+settings put global animator_duration_scale 0.012769
+settings put global window_animation_scale -0.001
+
+--------------------------------------------------------------------
+
+settings put global transition_animation_scale 0
+settings put global animator_duration_scale 0.00127696247761577
+settings put global window_animation_scale -0.000000000000000021
+
+--------------------------------------------------------------------
+
+settings put global animator_duration_scale -00000.0000000000
+settings put global transition_animation_scale 0
+settings put global window_animation_scale -00000.000999999989
+
+--------------------------------------------------------------------
+
+settings put global transition_animation_scale 0
+settings put global animator_duration_scale 0.003
+settings put global window_animation_scale 0.00
+
+--------------------------------------------------------------------
+
+settings put global transition_animation_scale 0
+settings put global animator_duration_scale 0.00000001
+settings put global window_animation_scale -0.001
+
+--------------------------------------------------------------------
+
+settings put global window_animation_scale 0
+settings put global transition_animation_scale 0
+settings put global animator_duration_scale 0.0011
+
+--------------------------------------------------------------------
+
+settings put global window_animation_scale 0.00000002
+settings put global transition_animation_scale 0
+settings put global animator_duration_scale 0.00288888
+
+--------------------------------------------------------------------
+
+settings put global window_animation_scale 0
+settings put global transition_animation_scale 0.0001
+settings put global animator_duration_scale 0.006
+
+--------------------------------------------------------------------
