@@ -3,7 +3,7 @@
 su
 adb shell
 
------------------------เลือกใส่ด้านล่าง-----------------------
+-------------------------เลือกใส่ด้านล่าง-------------------------
 
 settings put global transition_animation_scale 0
 settings put global animator_duration_scale 0.012769
